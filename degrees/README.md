@@ -2,6 +2,8 @@ If using Pycharm, run the following in the terminal (bottom left).
 
 The people.csv file is too large so I compressed it, remember to unzip it before running the program.
 
+Link to official assignment guideline: https://cs50.harvard.edu/ai/2020/projects/0/degrees/
+
 ```
 python degrees.py large
 Loading data...
